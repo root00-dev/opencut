@@ -1,4 +1,5 @@
 {
+  // trigger rebuild 2026-10-08T15:35Z
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "opencut",
   "main": "apps/web/.open-next/worker.js",
